@@ -100,5 +100,3 @@ This project is free to use for learning and demo purposes.
 2. Go to your GitHub repo → **Add file → Create new file**  
 3. Name it: `README.md`  
 4. Paste and **Commit** ✅
-
-Let me know if you want the SQL schema (`User_Info`, `User_Login`) too.
